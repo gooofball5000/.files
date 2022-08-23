@@ -1,0 +1,423 @@
+1647299614566	FirefoxAccounts	TRACE	initializing new storage manager
+1647299614566	FirefoxAccounts	TRACE	starting fetch of json user data
+1647299614569	Sync.Status	INFO	Resetting Status.
+1647299614569	Sync.Status	DEBUG	Status.service: undefined => success.status_ok
+1647299614569	Sync.Status	DEBUG	Status.login: success.login => error.login.reason.no_username
+1647299614569	Sync.Status	DEBUG	Status.service: success.status_ok => service.client_not_configured
+1647299614569	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299614711	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299614711	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299614711	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299614733	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299614733	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299614733	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299614766	FirefoxAccounts	TRACE	initializing of new storage manager done
+1647299614968	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299614968	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299614968	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299615076	FirefoxAccounts	DEBUG	FxAccountsWebChannel registered: account_updates with origin https://accounts.firefox.com
+1647299639538	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299639538	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299639538	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299650192	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299650192	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299650192	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299650221	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299650222	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299650222	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299650253	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299650253	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299650253	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299681894	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299681894	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299681894	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299716319	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299716319	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299716319	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299866723	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299866723	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299866723	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299866749	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299866749	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299866749	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299866772	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299866772	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299866772	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299869016	Sync.SyncScheduler	TRACE	Setting SyncScheduler policy values to defaults.
+1647299869016	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1647299869016	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299869016	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299869016	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299869016	Sync.Service	INFO	Loading Weave 1.100.0
+1647299869017	Sync.Engine.Clients	DEBUG	Engine constructed
+1647299869017	Sync.Engine.Clients	DEBUG	Resetting clients last sync time
+1647299869019	Sync.Engine.Addons	DEBUG	Engine constructed
+1647299869029	Sync.Engine.Addons	DEBUG	SyncEngine initialized: addons
+1647299869030	Sync.AddonsReconciler	DEBUG	No data seen in loaded file: addonsreconciler
+1647299869031	Sync.Engine.Bookmarks	DEBUG	Engine constructed
+1647299869032	Sync.Engine.Bookmarks	DEBUG	SyncEngine initialized: bookmarks
+1647299869033	Sync.Engine.Forms	DEBUG	Engine constructed
+1647299869033	Sync.Engine.Forms	DEBUG	SyncEngine initialized: forms
+1647299869034	Sync.Engine.History	DEBUG	Engine constructed
+1647299869034	Sync.Engine.History	DEBUG	SyncEngine initialized: history
+1647299869035	Sync.Engine.Passwords	DEBUG	Engine constructed
+1647299869035	Sync.Engine.Passwords	DEBUG	SyncEngine initialized: passwords
+1647299869035	Sync.Engine.Prefs	DEBUG	Engine constructed
+1647299869036	Sync.Engine.Prefs	DEBUG	SyncEngine initialized: prefs
+1647299869036	Sync.Engine.Tabs	DEBUG	Engine constructed
+1647299869036	Sync.Engine.Tabs	DEBUG	SyncEngine initialized: tabs
+1647299869036	Sync.Engine.Tabs	DEBUG	Resetting tabs last sync time
+1647299869037	Sync.Engine.CreditCards	DEBUG	Engine constructed
+1647299869037	Sync.Engine.CreditCards	DEBUG	SyncEngine initialized: creditcards
+1647299869038	Sync.Engine.Extension-Storage	DEBUG	Engine constructed
+1647299869038	Sync.Engine.Extension-Storage	DEBUG	SyncEngine initialized: extension-storage
+1647299869039	Sync.Service	INFO	Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0
+1647299869039	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299869039	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299869039	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299869041	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299869041	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299869041	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299887015	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299887015	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299887015	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299887044	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299887044	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299887044	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299887071	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647299887071	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647299887071	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301918000	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647301918000	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301918000	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301918025	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647301918025	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301918025	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301918055	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647301918055	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301918055	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301926781	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647301926781	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301926781	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301926812	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647301926812	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301926812	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301926836	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647301926836	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301926836	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301940705	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647301940705	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301940705	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301940738	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647301940738	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301940738	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301940762	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647301940762	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301940762	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301946024	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647301946024	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301946024	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301946054	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647301946054	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301946054	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301946080	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647301946080	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301946080	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301963422	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647301963422	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647301963422	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302156495	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302156495	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302156495	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302156524	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302156524	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302156524	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302156549	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302156549	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302156549	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302167393	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302167393	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302167393	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302167541	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302167541	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302167541	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302167564	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302167565	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302167565	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302167598	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302167598	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302167598	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302167638	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302167638	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302167638	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302169789	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302169789	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302169789	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302169820	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302169820	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302169820	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302169846	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302169846	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302169846	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302211133	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302211133	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302211133	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302211164	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302211164	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302211164	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302211188	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302211188	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302211188	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302224351	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302224351	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302224351	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302300636	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302300636	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302300636	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302300660	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302300660	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302300660	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302300688	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302300688	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302300688	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302462489	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302462489	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302462489	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302462533	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302462533	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302462533	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302462562	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302462562	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302462562	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302463887	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302463887	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302463887	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302463917	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647302463917	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647302463917	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305093926	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647305093926	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305093926	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305093949	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647305093949	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305093949	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305093972	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647305093973	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305093973	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305151689	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647305151689	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305151689	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305151717	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647305151717	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305151717	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305151765	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647305151765	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305151765	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305237691	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647305237691	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305237691	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305237727	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647305237727	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305237727	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305237757	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647305237757	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305237757	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305706033	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647305706033	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305706033	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305706061	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647305706061	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305706062	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305706088	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647305706088	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647305706088	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308389125	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308389125	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308389125	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308389152	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308389152	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308389152	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308389178	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308389178	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308389178	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308392190	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308392190	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308392191	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308392226	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308392226	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308392226	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308392261	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308392261	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308392261	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308410432	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308410432	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308410432	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308544466	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308544466	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308544466	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308544494	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308544494	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308544494	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308544528	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308544528	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308544528	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308554497	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308554497	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308554497	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308554540	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308554540	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308554540	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308554575	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308554575	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308554575	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308574346	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308574346	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308574346	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308574376	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308574376	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308574376	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308574405	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308574405	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308574405	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308697223	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308697223	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308697223	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308697262	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308697262	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308697262	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308697309	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308697309	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308697309	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308795616	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308795616	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308795616	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308795647	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308795647	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308795647	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308795679	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308795679	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308795679	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308855392	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308855392	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308855392	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308855417	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308855417	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308855417	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308855447	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647308855447	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647308855447	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309147312	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309147312	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309147312	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309147345	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309147345	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309147345	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309147375	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309147375	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309147375	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309170095	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309170095	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309170095	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309173046	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309173046	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309173046	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309173180	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309173180	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309173180	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309173206	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309173206	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309173206	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309173234	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309173234	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309173234	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309175854	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309175854	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309175854	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309175883	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309175883	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309175883	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309175910	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309175910	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309175910	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309198418	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309198418	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309198418	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309302514	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309302514	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309302514	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309302544	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309302544	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309302544	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309302585	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309302585	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309302585	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309398509	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309398509	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309398509	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309398545	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309398545	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309398545	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309398573	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309398573	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309398573	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309518665	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309518665	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309518665	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309518696	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309518696	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309518696	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309518724	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309518724	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309518724	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309631972	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309631972	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309631972	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309632001	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309632001	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309632001	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309632027	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309632027	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309632027	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309637055	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309637055	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309637055	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309692085	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309692085	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309692085	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309692122	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309692122	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309692122	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309692151	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309692151	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309692151	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309697263	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309697263	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309697263	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309700104	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309700104	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309700104	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309890070	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647309890070	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647309890070	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647334138172	Sync.SyncScheduler	DEBUG	Network link status changed to "down". Offline?: false
+1647334138172	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1647334138173	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1647334183459	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1647334185166	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1647334192250	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1647334194318	Sync.SyncScheduler	DEBUG	Network link status changed to "up". Offline?: false
+1647334194318	Sync.SyncScheduler	DEBUG	Network link looks up. Syncing.
+1647334194320	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1647334194320	Sync.Service	DEBUG	User-Agent: FireDragon/98.0 (Linux x86_64) FxSync/1.100.0.20220313150842.desktop
+1647334194320	Sync.Service	INFO	Starting sync at 2022-03-15 08:49:54 in browser session THqB6X-ETOz2
+1647334194321	Sync.Service	DEBUG	In sync: should login.
+1647334194321	Sync.Service	INFO	User logged in successfully - verifying login.
+1647334194321	Sync.SyncAuthManager	DEBUG	unlockAndVerifyAuthState has no FxA user
+1647334194321	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1647334194321	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1647334194321	Sync.Service	DEBUG	Fetching unlocked auth state returned error.login.reason.no_username
+1647334194321	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1647334194321	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1647334194321	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1647334194321	Sync.Service	DEBUG	Exception calling WrappedLock: Error: Login failed: error.login.reason.no_username(resource://services-sync/service.js:1038:15) JS Stack trace: onNotify@service.js:1038:15
+1647334194321	Sync.Service	DEBUG	Not syncing: login returned false.
