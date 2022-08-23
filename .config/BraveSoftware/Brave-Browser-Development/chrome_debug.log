@@ -1,0 +1,45 @@
+[2782:2805:0729/015202.006400:ERROR:bus.cc(398)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[2782:2805:0729/015202.006469:ERROR:bus.cc(398)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[2782:2782:0729/015202.138496:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[2782:2782:0729/015202.195114:WARNING:external_provider_impl.cc(510)] Malformed extension dictionary for extension: odbfpeeihdkbihmopkbjmoonfanlbfcl.  Key external_update_url has value "", which is not a valid URL.
+[2782:2805:0729/015202.209150:ERROR:bus.cc(398)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[2782:2805:0729/015202.209202:ERROR:bus.cc(398)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[2782:2782:0729/015202.223276:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[2782:2856:0729/015202.259832:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[2782:2856:0729/015202.259862:WARNING:property.cc(144)] DaemonVersion: GetAndBlock: failed.
+[2782:2856:0729/015202.265806:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[2782:2856:0729/015202.266106:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[2782:2805:0729/015202.349083:ERROR:bus.cc(398)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[2782:2805:0729/015202.349154:ERROR:bus.cc(398)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[2782:2849:0729/015202.637775:WARNING:syncer_proto_util.cc(325)] Error posting from syncer: Response Code (bogus on error): 401 Content-Length (bogus on error): 5 Server Status: SYNC_AUTH_ERROR
+[2782:2782:0729/015202.669196:WARNING:CONSOLE(226)] "crbug/1173575, non-JS module files deprecated.", source: chrome://resources/js/load_time_data.js (226)
+[2782:2847:0729/015202.857847:WARNING:syncer_proto_util.cc(325)] Error posting from syncer: Response Code (bogus on error): 401 Content-Length (bogus on error): 5 Server Status: SYNC_AUTH_ERROR
+[2782:2847:0729/015204.493464:WARNING:syncer_proto_util.cc(325)] Error posting from syncer: Response Code (bogus on error): 401 Content-Length (bogus on error): 5 Server Status: SYNC_AUTH_ERROR
+[2782:2847:0729/015208.232279:WARNING:syncer_proto_util.cc(325)] Error posting from syncer: Response Code (bogus on error): 401 Content-Length (bogus on error): 5 Server Status: SYNC_AUTH_ERROR
+[2782:2847:0729/015215.654242:WARNING:syncer_proto_util.cc(325)] Error posting from syncer: Response Code (bogus on error): 401 Content-Length (bogus on error): 5 Server Status: SYNC_AUTH_ERROR
+[2782:2782:0729/015216.840893:WARNING:CONSOLE(1)] "Could not find style data in module named null", source: chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js (1)
+[2782:2782:0729/015216.865907:WARNING:CONSOLE(1)] "Could not find style data in module named null", source: chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js (1)
+[2782:2782:0729/015217.350349:WARNING:CONSOLE(1)] "method `shouldShowRestart_` not defined", source: chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js (1)
+[2782:2782:0729/015221.485965:ERROR:CONSOLE(2482)] "Uncaught TypeError: Cannot read properties of undefined (reading 'appsSynced')", source: chrome://settings/shared.rollup.js (2482)
+[2782:2811:0729/015231.677941:WARNING:syncer_proto_util.cc(325)] Error posting from syncer: Response Code (bogus on error): 401 Content-Length (bogus on error): 5 Server Status: SYNC_AUTH_ERROR
+[2782:2782:0729/015250.239396:WARNING:CONSOLE(1)] "Could not find style data in module named null", source: chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js (1)
+[2782:2782:0729/015250.265850:WARNING:CONSOLE(1)] "Could not find style data in module named null", source: chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js (1)
+[2782:2782:0729/015250.629415:WARNING:CONSOLE(1)] "method `shouldShowRestart_` not defined", source: chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js (1)
+[2782:2846:0729/015257.588487:WARNING:syncer_proto_util.cc(325)] Error posting from syncer: Response Code (bogus on error): 401 Content-Length (bogus on error): 5 Server Status: SYNC_AUTH_ERROR
+[2782:2782:0729/015344.634033:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = chrome://downloads/, status = 4, exit_code = 0
+[2782:2801:0729/015400.606595:WARNING:syncer_proto_util.cc(325)] Error posting from syncer: Response Code (bogus on error): 401 Content-Length (bogus on error): 5 Server Status: SYNC_AUTH_ERROR
+[2782:2782:0729/015447.630324:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[2782:2782:0729/015448.646766:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[2782:2805:0729/015455.285999:ERROR:bus.cc(398)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[2782:2805:0729/015455.286054:ERROR:bus.cc(398)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[2782:2805:0729/015455.286069:ERROR:bus.cc(398)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[2782:2782:0729/015526.475863:WARNING:CONSOLE(1)] "Could not find style data in module named null", source: chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js (1)
+[2782:2782:0729/015526.579247:ERROR:CONSOLE(0)] "(WEBUI context) extensions::safeMethods:20: Uncaught TypeError: Illegal invocation{TypeError: Illegal invocation
+    at Object.define (extensions::safeMethods:20:22)
+    at extensions::guestViewContainerElement:67:28
+    at registerElement (extensions::guestViewContainerElement:56:28)
+    at extensions::extensionOptionsElement:25:1}", source: chrome://extensions/ (0)
+[2782:3560:0729/015559.498612:WARNING:syncer_proto_util.cc(325)] Error posting from syncer: Response Code (bogus on error): 401 Content-Length (bogus on error): 5 Server Status: SYNC_AUTH_ERROR
+[2782:2782:0729/015612.341921:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl, status = 4, exit_code = 0
+[2782:2782:0729/015613.141823:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = chrome://extensions/, status = 4, exit_code = 0
+[2782:2782:0729/015613.147610:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/_generated_background_page.html, status = 4, exit_code = 0

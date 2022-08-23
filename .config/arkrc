@@ -1,0 +1,23 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/,$HOME/.cache/mozilla/firefox/dr8aap8l.Default User/,$HOME/.mozilla/firefox/dr8aap8l.Default User/,$HOME/.mozilla/firefox/,$HOME/.mozilla/
+
+[Extraction]
+closeAfterExtraction=true
+openDestinationFolderAfterExtraction=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME,file:$HOME/.cache/mozilla/firefox/dr8aap8l.Default User,file:$HOME/.mozilla/firefox/dr8aap8l.Default User,file:$HOME/.mozilla/firefox
+Recent URLs[$e]=file:$HOME/.mozilla/,file:$HOME/.mozilla/firefox/,file:$HOME/.mozilla/firefox/dr8aap8l.Default User/,file:$HOME/.cache/mozilla/firefox/dr8aap8l.Default User/,file:$HOME/Downloads/
+detailViewIconSize=16
+
+[MainWindow]
+DP-0 Height 1920x1080=500
+DP-0 Width 1920x1080=701
+DP-0 XPosition 1920x1080=328
+DP-0 YPosition 1920x1080=361
+DP-1 XPosition 1920x1080=353
+DP-1 YPosition 1920x1080=536
+State=AAAA/wAAAAD9AAAAAAAAAr0AAAGoAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+splitterSizes=467,233

@@ -1,0 +1,69 @@
+2022/08/18-14:23:06.165 6097 Reusing MANIFEST /home/jack/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/08/18-14:23:06.165 6097 Recovering log #271
+2022/08/18-14:23:06.165 6097 Reusing old log /home/jack/.config/discord/Local Storage/leveldb/000271.log 
+2022/08/18-14:24:06.939 6097 Level-0 table #276: started
+2022/08/18-14:24:06.957 6097 Level-0 table #276: 17081 bytes OK
+2022/08/18-14:24:06.963 6097 Delete type=0 #271
+2022/08/19-10:07:20.520 60b5 Level-0 table #278: started
+2022/08/19-10:07:20.535 60b5 Level-0 table #278: 1108024 bytes OK
+2022/08/19-10:07:20.542 60b5 Delete type=0 #275
+2022/08/19-14:23:14.671 6097 Level-0 table #280: started
+2022/08/19-14:23:14.683 6097 Level-0 table #280: 1099322 bytes OK
+2022/08/19-14:23:14.689 6097 Delete type=0 #277
+2022/08/19-14:23:28.294 60b5 Level-0 table #282: started
+2022/08/19-14:23:28.304 60b5 Level-0 table #282: 1098963 bytes OK
+2022/08/19-14:23:28.310 60b5 Delete type=0 #279
+2022/08/19-14:23:28.311 60b5 Compacting 4@0 + 1@1 files
+2022/08/19-14:23:28.327 60b5 Generated table #283@0: 179 keys, 1611341 bytes
+2022/08/19-14:23:28.327 60b5 Compacted 4@0 + 1@1 files => 1611341 bytes
+2022/08/19-14:23:28.333 60b5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/19-14:23:28.333 60b5 Delete type=2 #273
+2022/08/19-14:23:28.333 60b5 Delete type=2 #276
+2022/08/19-14:23:28.333 60b5 Delete type=2 #278
+2022/08/19-14:23:28.333 60b5 Delete type=2 #280
+2022/08/19-14:23:28.333 60b5 Delete type=2 #282
+2022/08/19-23:52:24.139 60b5 Level-0 table #285: started
+2022/08/19-23:52:24.148 60b5 Level-0 table #285: 1102957 bytes OK
+2022/08/19-23:52:24.155 60b5 Delete type=0 #281
+2022/08/20-06:23:14.583 6097 Level-0 table #287: started
+2022/08/20-06:23:14.593 6097 Level-0 table #287: 1100525 bytes OK
+2022/08/20-06:23:14.600 6097 Delete type=0 #284
+2022/08/20-14:23:14.630 6097 Level-0 table #289: started
+2022/08/20-14:23:14.642 6097 Level-0 table #289: 1099633 bytes OK
+2022/08/20-14:23:14.649 6097 Delete type=0 #286
+2022/08/20-19:57:11.315 60b5 Level-0 table #291: started
+2022/08/20-19:57:11.327 60b5 Level-0 table #291: 1100169 bytes OK
+2022/08/20-19:57:11.334 60b5 Delete type=0 #288
+2022/08/20-19:57:11.334 60b5 Compacting 4@0 + 1@1 files
+2022/08/20-19:57:11.348 60b5 Generated table #292@0: 179 keys, 1612715 bytes
+2022/08/20-19:57:11.348 60b5 Compacted 4@0 + 1@1 files => 1612715 bytes
+2022/08/20-19:57:11.355 60b5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/20-19:57:11.355 60b5 Delete type=2 #283
+2022/08/20-19:57:11.355 60b5 Delete type=2 #285
+2022/08/20-19:57:11.355 60b5 Delete type=2 #287
+2022/08/20-19:57:11.355 60b5 Delete type=2 #289
+2022/08/20-19:57:11.355 60b5 Delete type=2 #291
+2022/08/20-22:24:07.710 60b5 Level-0 table #294: started
+2022/08/20-22:24:07.734 60b5 Level-0 table #294: 1101396 bytes OK
+2022/08/20-22:24:07.740 60b5 Delete type=0 #290
+2022/08/21-02:31:01.851 60b5 Level-0 table #296: started
+2022/08/21-02:31:01.870 60b5 Level-0 table #296: 1104139 bytes OK
+2022/08/21-02:31:01.878 60b5 Delete type=0 #293
+2022/08/21-16:52:26.730 6097 Level-0 table #298: started
+2022/08/21-16:52:26.740 6097 Level-0 table #298: 1102595 bytes OK
+2022/08/21-16:52:26.746 6097 Delete type=0 #295
+2022/08/21-22:23:14.616 6097 Level-0 table #300: started
+2022/08/21-22:23:14.641 6097 Level-0 table #300: 1104082 bytes OK
+2022/08/21-22:23:14.647 6097 Delete type=0 #297
+2022/08/21-22:23:14.648 6097 Compacting 4@0 + 1@1 files
+2022/08/21-22:23:14.662 6097 Generated table #301@0: 179 keys, 1614649 bytes
+2022/08/21-22:23:14.662 6097 Compacted 4@0 + 1@1 files => 1614649 bytes
+2022/08/21-22:23:14.668 6097 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/21-22:23:14.668 6097 Delete type=2 #292
+2022/08/21-22:23:14.668 6097 Delete type=2 #294
+2022/08/21-22:23:14.668 6097 Delete type=2 #296
+2022/08/21-22:23:14.668 6097 Delete type=2 #298
+2022/08/21-22:23:14.668 6097 Delete type=2 #300
+2022/08/22-02:23:28.300 60b5 Level-0 table #303: started
+2022/08/22-02:23:28.312 60b5 Level-0 table #303: 1101978 bytes OK
+2022/08/22-02:23:28.319 60b5 Delete type=0 #299

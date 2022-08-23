@@ -1,0 +1,17 @@
+[Favorites-org.kde.plasma.kicker.favorites.instance-21-02711655-3c51-4f46-9425-cbba52548d1a]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover
+
+[Favorites-org.kde.plasma.kicker.favorites.instance-21-global]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-22-02711655-3c51-4f46-9425-cbba52548d1a]
+ordering=applications:org.kde.dolphin.desktop,applications:org.kde.plasma-systemmonitor.desktop,applications:systemsettings.desktop,applications:vlc.desktop,preferred://browser,applications:org.kde.konsole.desktop,applications:org.kde.kate.desktop,applications:htop.desktop,applications:org.kde.kwrite.desktop,applications:steam.desktop,applications:discord.desktop,applications:multimc.desktop,applications:timeshift-gtk.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-22-global]
+ordering=applications:org.kde.dolphin.desktop,applications:org.kde.plasma-systemmonitor.desktop,applications:systemsettings.desktop,applications:vlc.desktop,preferred://browser,applications:org.kde.konsole.desktop,applications:org.kde.kate.desktop,applications:htop.desktop,applications:org.kde.kwrite.desktop,applications:steam.desktop,applications:discord.desktop,applications:multimc.desktop,applications:timeshift-gtk.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-02711655-3c51-4f46-9425-cbba52548d1a]
+ordering=applications:systemsettings.desktop,applications:vlc.desktop,applications:org.kde.plasma-systemmonitor.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=applications:systemsettings.desktop,applications:vlc.desktop,applications:org.kde.plasma-systemmonitor.desktop

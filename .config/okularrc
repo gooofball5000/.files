@@ -1,0 +1,22 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+DP-0 Height 1920x1080=1035
+DP-0 Width 1920x1080=636
+DP-0 XPosition 1920x1080=1282
+DP-0 YPosition 1920x1080=18
+State=AAAA/wAAAAD9AAAAAAAAAnwAAAPSAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/.local/share/PolyMC/instances/1.18.2/.minecraft/logs/latest.log
+File2[$e]=$HOME/Downloads/macOS-Simple-KVM/macOS-Simple-KVM-master/docs/FAQs.md
+File3[$e]=/etc/fstab
+File4[$e]=/mnt/usb/crux-media
+File5[$e]=/mnt/usb/boot/isolinux/isolinux.cfg
+Name1[$e]=latest.log
+Name2[$e]=FAQs.md
+Name3[$e]=fstab
+Name4[$e]=crux-media
+Name5[$e]=isolinux.cfg

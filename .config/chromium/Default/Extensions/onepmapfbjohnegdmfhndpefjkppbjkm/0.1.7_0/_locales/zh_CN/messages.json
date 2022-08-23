@@ -1,0 +1,47 @@
+{
+   "cannotTips": {
+      "message": "无需破解"
+   },
+   "copy": {
+      "message": "复制"
+   },
+   "copyFail": {
+      "message": "复制失败"
+   },
+   "copySuccess": {
+      "message": "复制成功"
+   },
+   "crackTips": {
+      "message": "破解禁止复制"
+   },
+   "delete": {
+      "message": "删除域名"
+   },
+   "description": {
+      "message": "一键破解禁止右键、破解禁止选择、破解禁止复制、破解禁止粘贴，启用复制，启用右键，启用选择，启用粘贴。"
+   },
+   "disableTips": {
+      "message": "点击取消破解"
+   },
+   "domainLists": {
+      "message": "域名列表"
+   },
+   "domainListsTips": {
+      "message": " 在此域名列表中的页面将自动启动SuperCopy。"
+   },
+   "enableTips": {
+      "message": "点击破解禁止复制"
+   },
+   "name": {
+      "message": "SuperCopy 超级复制"
+   },
+   "qqgroup": {
+      "message": "QQ群"
+   },
+   "rate": {
+      "message": "五星好评"
+   },
+   "tips": {
+      "message": "提示"
+   }
+}

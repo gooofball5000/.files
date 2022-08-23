@@ -1,0 +1,44 @@
+{
+   "cannotTips": {
+      "message": "ウェブサイトではありません"
+   },
+   "copy": {
+      "message": "コピー"
+   },
+   "copyFail": {
+      "message": "失敗"
+   },
+   "copySuccess": {
+      "message": "成功"
+   },
+   "crackTips": {
+      "message": "クラック禁止コピー"
+   },
+   "delete": {
+      "message": "ドメインを削除する"
+   },
+   "description": {
+      "message": "クラック禁止右キー、クラッキング禁止の選択肢、クラッキングはコピーを禁止し、クラック禁止貼り付け"
+   },
+   "disableTips": {
+      "message": "クリックしてキャンセル"
+   },
+   "domainLists": {
+      "message": "ドメインリスト"
+   },
+   "domainListsTips": {
+      "message": "ドメインがこのリストにある場合は、SuperCopyを有効にします。"
+   },
+   "enableTips": {
+      "message": "クリックしてクラック"
+   },
+   "name": {
+      "message": "SuperCopy スーパーコピー"
+   },
+   "rate": {
+      "message": "割合"
+   },
+   "tips": {
+      "message": "チップ"
+   }
+}

@@ -1,0 +1,6 @@
+2022/08/01-20:43:45.056 165 Creating DB /home/jack/.config/chromium/Default/IndexedDB/https_ftb.fandom.com_0.indexeddb.leveldb since it was missing.
+2022/08/01-20:43:45.065 165 Reusing MANIFEST /home/jack/.config/chromium/Default/IndexedDB/https_ftb.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/01-20:44:07.284 165 Level-0 table #5: started
+2022/08/01-20:44:07.287 165 Level-0 table #5: 8093 bytes OK
+2022/08/01-20:44:07.293 165 Delete type=0 #3
+2022/08/01-20:44:07.293 165 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

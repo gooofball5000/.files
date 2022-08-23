@@ -1,0 +1,27 @@
+2022/08/21-20:58:55.024 3 Reusing MANIFEST /home/jack/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/08/21-20:58:55.025 3 Recovering log #281
+2022/08/21-20:58:55.025 3 Reusing old log /home/jack/.config/chromium/Default/Local Storage/leveldb/000281.log 
+2022/08/21-23:54:06.696 56 Level-0 table #286: started
+2022/08/21-23:54:06.714 56 Level-0 table #286: 14212 bytes OK
+2022/08/21-23:54:06.721 56 Delete type=0 #281
+2022/08/22-03:00:57.581 110 Level-0 table #288: started
+2022/08/22-03:00:57.585 110 Level-0 table #288: 14383 bytes OK
+2022/08/22-03:00:57.595 110 Delete type=0 #285
+2022/08/22-12:32:51.549 11d Level-0 table #290: started
+2022/08/22-12:32:51.558 11d Level-0 table #290: 186997 bytes OK
+2022/08/22-12:32:51.565 11d Delete type=0 #287
+2022/08/22-12:56:39.533 11d Level-0 table #292: started
+2022/08/22-12:56:39.552 11d Level-0 table #292: 190029 bytes OK
+2022/08/22-12:56:39.559 11d Delete type=0 #289
+2022/08/22-12:56:39.560 11d Compacting 4@0 + 1@1 files
+2022/08/22-12:56:39.578 11d Generated table #293@0: 277 keys, 1451054 bytes
+2022/08/22-12:56:39.579 11d Compacted 4@0 + 1@1 files => 1451054 bytes
+2022/08/22-12:56:39.585 11d compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/08/22-12:56:39.586 11d Delete type=2 #283
+2022/08/22-12:56:39.586 11d Delete type=2 #286
+2022/08/22-12:56:39.586 11d Delete type=2 #288
+2022/08/22-12:56:39.586 11d Delete type=2 #290
+2022/08/22-12:56:39.586 11d Delete type=2 #292
+2022/08/22-13:38:26.797 138 Level-0 table #295: started
+2022/08/22-13:38:26.811 138 Level-0 table #295: 370515 bytes OK
+2022/08/22-13:38:26.830 138 Delete type=0 #291

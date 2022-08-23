@@ -1,0 +1,44 @@
+{
+   "cannotTips": {
+      "message": "작동 불가능"
+   },
+   "copy": {
+      "message": "복사"
+   },
+   "copyFail": {
+      "message": "실패"
+   },
+   "copySuccess": {
+      "message": "성공"
+   },
+   "crackTips": {
+      "message": "복사 허용"
+   },
+   "delete": {
+      "message": "도메인 삭제"
+   },
+   "description": {
+      "message": "오른쪽 키 허용, 선택 허용, 복사 허용, 붙 여 넣 기 허용."
+   },
+   "disableTips": {
+      "message": "취소"
+   },
+   "domainLists": {
+      "message": "도메인 목록"
+   },
+   "domainListsTips": {
+      "message": "도메인이이 목록에 있으면 SuperCopy를 활성화합니다."
+   },
+   "enableTips": {
+      "message": "클릭 하여 복사 허용"
+   },
+   "name": {
+      "message": "SuperCopy  슈퍼 카피"
+   },
+   "rate": {
+      "message": "율"
+   },
+   "tips": {
+      "message": "팁"
+   }
+}

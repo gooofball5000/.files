@@ -1,0 +1,6 @@
+2022/08/01-11:41:00.844 afe Creating DB /home/jack/.config/chromium/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb since it was missing.
+2022/08/01-11:41:00.853 afe Reusing MANIFEST /home/jack/.config/chromium/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/01-11:41:44.771 5abf Level-0 table #5: started
+2022/08/01-11:41:44.774 5abf Level-0 table #5: 5968 bytes OK
+2022/08/01-11:41:44.780 5abf Delete type=0 #3
+2022/08/01-11:41:44.780 5abf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

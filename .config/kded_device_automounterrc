@@ -1,0 +1,51 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=256.0 MiB Internal Drive (nvme0n1p1)
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p3]
+EverMounted=true
+Icon=drive-harddisk-root
+LastNameSeen=50.0 GiB Internal Drive (nvme0n1p3)
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p4]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=849.3 GiB Internal Drive (nvme0n1p4)
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda1]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=easystore
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdb1]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=2TB EXTERNAL
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc]
+EverMounted=true
+Icon=drive-removable-media-usb
+LastNameSeen=Jack's File
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc1]
+EverMounted=true
+Icon=drive-removable-media-usb-pendrive
+LastNameSeen=Ventoy
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdc2]
+EverMounted=true
+Icon=drive-removable-media-usb-pendrive
+LastNameSeen=VTOYEFI
+LastSeenMounted=true
+
+[General]
+AutomountEnabled=true
+AutomountUnknownDevices=true

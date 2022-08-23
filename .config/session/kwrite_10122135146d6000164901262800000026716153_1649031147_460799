@@ -1,0 +1,37 @@
+[1]
+DocumentNumber=1
+
+[1][General Options]
+CursorColumn=0
+CursorLine=18
+Dynamic Word Wrap=true
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[Document 1]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+URL=
+
+[Number]
+NumberOfDocuments=1
+NumberOfWindows=1
+
+[Window 1]
+DocumentNumber=1
+
+[WindowProperties1]
+ClassName=KWrite
+DP-1 Height 1920x1080=480
+DP-1 Width 1920x1080=917
+DP-1 XPosition 1920x1080=540
+DP-1 YPosition 1920x1080=143
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAA5UAAAGUAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

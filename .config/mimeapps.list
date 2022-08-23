@@ -1,0 +1,14 @@
+[Added Associations]
+inode/directory=org.kde.dolphin.desktop;;
+x-scheme-handler/http=firefox.desktop;;
+x-scheme-handler/https=firefox.desktop;;
+
+[Default Applications]
+inode/directory=org.kde.dolphin.desktop;
+x-scheme-handler/http=chromium-browser-chromium.desktop
+x-scheme-handler/https=chromium-browser-chromium.desktop
+x-scheme-handler/discord-455712169795780630=discord-455712169795780630.desktop
+text/html=chromium-browser-chromium.desktop
+x-scheme-handler/about=chromium-browser-chromium.desktop
+x-scheme-handler/unknown=chromium-browser-chromium.desktop
+x-scheme-handler/discord-791336373667102771=discord-791336373667102771.desktop

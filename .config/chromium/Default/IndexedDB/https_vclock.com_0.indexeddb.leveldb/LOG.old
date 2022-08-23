@@ -1,0 +1,6 @@
+2022/08/07-23:41:25.875 5eb7 Creating DB /home/jack/.config/chromium/Default/IndexedDB/https_vclock.com_0.indexeddb.leveldb since it was missing.
+2022/08/07-23:41:25.887 5eb7 Reusing MANIFEST /home/jack/.config/chromium/Default/IndexedDB/https_vclock.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/08-00:41:08.277 9f5 Level-0 table #5: started
+2022/08/08-00:41:08.280 9f5 Level-0 table #5: 830 bytes OK
+2022/08/08-00:41:08.286 9f5 Delete type=0 #3
+2022/08/08-00:41:08.286 9f5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

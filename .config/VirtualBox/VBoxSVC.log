@@ -1,0 +1,93 @@
+00:00:00.001470 main     VirtualBox XPCOM Server 6.1.28_Gentoo r147628 linux.amd64 (Apr  3 2022 19:31:36) release log
+00:00:00.001471 main     Log opened 2022-04-04T00:46:29.936394000Z
+00:00:00.001472 main     Build Type: release
+00:00:00.001474 main     OS Product: Linux
+00:00:00.001475 main     OS Release: 5.15.32-gentoo-dist
+00:00:00.001475 main     OS Version: #1 SMP Sat Apr 2 19:34:47 CDT 2022
+00:00:00.001494 main     DMI Product Name: B550M AORUS PRO
+00:00:00.001498 main     DMI Product Version: Default string
+00:00:00.001503 main     Firmware type: UEFI
+00:00:00.001561 main     Secure Boot: Disabled
+00:00:00.001583 main     Host RAM: 32072MB (31.3GB) total, 30772MB (30.0GB) available
+00:00:00.001586 main     Executable: /usr/lib64/virtualbox/VBoxSVC
+00:00:00.001586 main     Process ID: 7868
+00:00:00.001586 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.002285 main     IPC socket path: /tmp/.vbox-jack-ipc/ipcd
+00:00:00.105898 nspr-2   VirtualBox: object creation starts
+00:00:00.106275 nspr-2   Home directory: '/home/jack/.config/VirtualBox'
+00:00:00.109567 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.110057 nspr-2   HostDnsMonitor: initializing
+00:00:00.110122 nspr-2   NAT: resolv.conf: nameserver 75.75.75.75
+00:00:00.110125 nspr-2   NAT: resolv.conf: nameserver 75.75.76.76
+00:00:00.110128 nspr-2   NAT: resolv.conf: nameserver 2001:558:feed::1
+00:00:00.110129 nspr-2   NAT: resolv.conf: too many nameserver lines, ignoring 2001:558:feed::2
+00:00:00.110135 nspr-2   HostDnsMonitor: updating information
+00:00:00.110140 nspr-2   HostDnsMonitor: old information
+00:00:00.110141 nspr-2     no server entries
+00:00:00.110142 nspr-2     no domain set
+00:00:00.110143 nspr-2     no search string entries
+00:00:00.110145 nspr-2   HostDnsMonitor: new information
+00:00:00.110146 nspr-2     server 1: 75.75.75.75
+00:00:00.110147 nspr-2     server 2: 75.75.76.76
+00:00:00.110148 nspr-2     server 3: 2001:558:feed::1
+00:00:00.110149 nspr-2     domain: hsd1.mn.comcast.net
+00:00:00.110150 nspr-2     no search string entries
+00:00:00.110163 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:00.110600 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.110840 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.111393 nspr-2   VirtualBox: object created
+00:00:09.349555 nspr-3   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:09.350330 nspr-3   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:13.390362 nspr-3   Saving settings file "/home/jack/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:13.399994 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:13.400125 nspr-3   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:28.364582 createBase Saving settings file "/home/jack/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:28.895627 nspr-4   Saving settings file "/home/jack/.VirtualBox/Machines/gentoo/gentoo.vbox" with version "1.16-linux"
+00:00:28.905145 nspr-3   Saving settings file "/home/jack/.VirtualBox/Machines/gentoo/gentoo.vbox" with version "1.16-linux"
+00:00:28.914024 nspr-3   Saving settings file "/home/jack/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:28.924615 nspr-4   Saving settings file "/home/jack/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:28.933908 nspr-4   Saving settings file "/home/jack/.VirtualBox/Machines/gentoo/gentoo.vbox" with version "1.16-linux"
+00:00:29.290869 nspr-4   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:30.707178 nspr-4   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:31.104587 nspr-3   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:31.104650 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:31.104690 nspr-3   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:31.205248 nspr-3   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:01:09.563792 nspr-4   Saving settings file "/home/jack/.VirtualBox/Machines/gentoo/gentoo.vbox" with version "1.16-linux"
+00:01:09.607689 nspr-2   Saving settings file "/home/jack/.VirtualBox/Machines/gentoo/gentoo.vbox" with version "1.16-linux"
+00:01:09.655628 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:02:28.378612 nspr-5   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:02:28.757685 nspr-4   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:02:28.757748 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:02:28.757798 nspr-3   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:02:28.856019 nspr-4   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:02:58.733286 nspr-3   Saving settings file "/home/jack/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:58.743254 nspr-5   Saving settings file "/home/jack/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:01.855802 nspr-5   Saving settings file "/home/jack/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:01.876302 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:03:01.890050 nspr-4   Saving settings file "/home/jack/.VirtualBox/Machines/gentoo/gentoo.vbox" with version "1.16-linux"
+00:03:01.933464 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:03:02.969601 nspr-4   Launched VM: 2415938384 pid: 18683 (0x48fb) frontend: GUI/Qt name: gentoo
+00:03:02.977577 nspr-3   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:03:03.105412 nspr-6   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:03:03.427584 nspr-5   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:03:03.479608 nspr-4   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:03:03.520674 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:03:03.526581 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:03:03.811374 nspr-3   Saving settings file "/home/jack/.VirtualBox/Machines/gentoo/gentoo.vbox" with version "1.16-linux"
+00:03:04.325906 nspr-7   Saving settings file "/home/jack/.VirtualBox/Machines/gentoo/gentoo.vbox" with version "1.16-linux"
+00:03:04.356753 nspr-4   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:03:04.822476 nspr-2   Failed to open "/dev/vboxdrvu", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:05:04.168535 nspr-6   Saving settings file "/home/jack/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:05:04.191875 nspr-4   Saving settings file "/home/jack/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:05:04.200998 nspr-5   Saving settings file "/home/jack/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:05:04.210626 nspr-7   Saving settings file "/home/jack/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:05:04.220879 nspr-5   Saving settings file "/home/jack/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:05:04.230334 nspr-5   Saving settings file "/home/jack/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:05:04.240095 nspr-2   Saving settings file "/home/jack/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:05:09.751850 main     VirtualBox: object deletion starts
+00:05:09.751879 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/jack/.VirtualBox/Machines/gentoo/gentoo.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:05:09.752092 main     HostDnsMonitor: shutting down ...
+00:05:09.756594 main     HostDnsMonitor: shut down
+00:05:09.773333 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:05:09.773388 main     VirtualBox: object deleted

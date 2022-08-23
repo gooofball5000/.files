@@ -1,0 +1,28 @@
+00:00:00.279241 VirtualBox GUI VM Selector Window 6.1.28_Gentoo r147628 linux.amd64 (Apr  3 2022 19:31:36) release log
+00:00:00.279242 Log opened 2022-04-04T00:46:30.066316000Z
+00:00:00.279243 Build Type: release
+00:00:00.279245 OS Product: Linux
+00:00:00.279246 OS Release: 5.15.32-gentoo-dist
+00:00:00.279246 OS Version: #1 SMP Sat Apr 2 19:34:47 CDT 2022
+00:00:00.279262 DMI Product Name: B550M AORUS PRO
+00:00:00.279265 DMI Product Version: Default string
+00:00:00.279270 Firmware type: UEFI
+00:00:00.279327 Secure Boot: Disabled
+00:00:00.279347 Host RAM: 32072MB (31.3GB) total, 30769MB (30.0GB) available
+00:00:00.279352 Executable: /usr/lib64/virtualbox/VirtualBox
+00:00:00.279352 Process ID: 7803
+00:00:00.279352 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.279364 Qt version: 5.15.2
+00:00:00.287902 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.287915 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.506851 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1920x1036
+00:00:29.035596 GUI: UIMediumEnumerator: Medium with key={{06d26d0a-841d-4637-a8e4-cd1dc807a971}} created
+00:00:29.133484 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:09.786372 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:09.795010 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:58.880704 GUI: UIMediumEnumerator: Medium with key={{053d8bca-6202-4500-b0a9-fdb50639c3d4}} created
+00:02:58.907807 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:02.017465 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:02.076037 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:04.500624 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:13.932830 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0

@@ -1,0 +1,14 @@
+2022/08/21-20:58:55.522 1917 Reusing MANIFEST /home/jack/.config/chromium/Default/Local Extension Settings/pkehgijcmpdhfbdbbnkijodmdjhbjlgp/MANIFEST-000001
+2022/08/21-20:58:55.523 1917 Recovering log #15
+2022/08/21-20:58:55.526 1917 Level-0 table #18: started
+2022/08/21-20:58:55.534 1917 Level-0 table #18: 636462 bytes OK
+2022/08/21-20:58:55.540 1917 Delete type=0 #15
+2022/08/21-20:58:55.541 1904 Compacting 4@0 + 1@1 files
+2022/08/21-20:58:55.555 1904 Generated table #20@0: 2 keys, 49608 bytes
+2022/08/21-20:58:55.555 1904 Compacted 4@0 + 1@1 files => 49608 bytes
+2022/08/21-20:58:55.562 1904 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/21-20:58:55.562 1904 Delete type=2 #8
+2022/08/21-20:58:55.562 1904 Delete type=2 #10
+2022/08/21-20:58:55.562 1904 Delete type=2 #13
+2022/08/21-20:58:55.562 1904 Delete type=2 #16
+2022/08/21-20:58:55.562 1904 Delete type=2 #18

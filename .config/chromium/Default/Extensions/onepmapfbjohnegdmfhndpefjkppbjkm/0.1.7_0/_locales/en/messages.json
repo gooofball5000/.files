@@ -1,0 +1,44 @@
+{
+   "cannotTips": {
+      "message": "Can't Crack Disable Copy"
+   },
+   "copy": {
+      "message": "Copy"
+   },
+   "copyFail": {
+      "message": "Fail"
+   },
+   "copySuccess": {
+      "message": "Success"
+   },
+   "crackTips": {
+      "message": "Crack Disable Copy"
+   },
+   "delete": {
+      "message": "Delete Domain"
+   },
+   "description": {
+      "message": "Allow Right Click, Enable Select, Enable Copy and Enable Paste in Every Site.Crack Disable Copy, Enable Right Click, Enable Select."
+   },
+   "disableTips": {
+      "message": "Click to Cancel Crack"
+   },
+   "domainLists": {
+      "message": "Domain Lists"
+   },
+   "domainListsTips": {
+      "message": " Enable SuperCopy when the domain is in this lists."
+   },
+   "enableTips": {
+      "message": "Click to Crack Disable Copy"
+   },
+   "name": {
+      "message": "SuperCopy - Enable Copy"
+   },
+   "rate": {
+      "message": "Rate"
+   },
+   "tips": {
+      "message": "Tips"
+   }
+}

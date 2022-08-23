@@ -1,0 +1,7 @@
+2022/08/05-00:48:20.526 6719 Reusing MANIFEST /home/jack/.config/discord/IndexedDB/https_947957217959759964.discordsays.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/05-00:48:20.527 6719 Recovering log #3
+2022/08/05-00:48:20.530 6719 Reusing old log /home/jack/.config/discord/IndexedDB/https_947957217959759964.discordsays.com_0.indexeddb.leveldb/000003.log 
+2022/08/05-01:11:52.841 7b6f Level-0 table #5: started
+2022/08/05-01:11:52.846 7b6f Level-0 table #5: 98962 bytes OK
+2022/08/05-01:11:52.852 7b6f Delete type=0 #3
+2022/08/05-01:11:52.852 7b6f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

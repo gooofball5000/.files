@@ -1,0 +1,12 @@
+[activities]
+02711655-3c51-4f46-9425-cbba52548d1a=Play
+5b499d33-0fd1-4db5-880e-417a427b54e5=TOR
+e948c1ac-dace-4e71-b284-cf187071247b=School
+
+[activities-icons]
+02711655-3c51-4f46-9425-cbba52548d1a=alienarena
+5b499d33-0fd1-4db5-880e-417a427b54e5=ktorrent
+e948c1ac-dace-4e71-b284-cf187071247b=activities
+
+[main]
+currentActivity=02711655-3c51-4f46-9425-cbba52548d1a
