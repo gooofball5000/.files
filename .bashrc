@@ -48,7 +48,7 @@ export HISTFILESIZE=10000
 export HISTSIZE=500
 
 # Don't put duplicate lines in the history and do not add lines that start with a space
-export HISTCONTROL=erasedups:ignoredups:ignorespace
+export HISTCONTROL=erasedups:ignoredups:ignorespace:ignoreboth
 
 # Check the window size after each command and, if necessary, update the values of LINES and COLUMNS
 shopt -s checkwinsize
@@ -164,7 +164,7 @@ alias rmd='/bin/rm  --recursive --force --verbose '
 
 # Alias's for multiple directory listing commands
 alias la='ls -Alh' # show hidden files
-alias ls='ls -aFh --color=always' # add colors and file type extensions
+alias ls='ls -AFh --color=always' # add colors and file type extensions
 alias lx='ls -lXBh' # sort by extension
 alias lk='ls -lSrh' # sort by size
 alias lc='ls -lcrh' # sort by change time
@@ -862,6 +862,9 @@ alias timeshiftCheck='timeshift --check'
 # Portage
 alias emergeSync='doas emerge --sync'
 alias emergeuqNDworld='doas emerge -uqND @world'
+
+# Auto cd
+shopt -s autocd
 
 
 eval "$(thefuck --alias)"
