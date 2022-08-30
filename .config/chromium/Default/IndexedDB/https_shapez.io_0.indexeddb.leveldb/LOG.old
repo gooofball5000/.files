@@ -1,6 +1,0 @@
-2022/08/04-01:54:10.830 b9f Creating DB /home/jack/.config/chromium/Default/IndexedDB/https_shapez.io_0.indexeddb.leveldb since it was missing.
-2022/08/04-01:54:10.839 b9f Reusing MANIFEST /home/jack/.config/chromium/Default/IndexedDB/https_shapez.io_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/04-01:56:34.786 ff1 Level-0 table #5: started
-2022/08/04-01:56:34.789 ff1 Level-0 table #5: 20002 bytes OK
-2022/08/04-01:56:34.795 ff1 Delete type=0 #3
-2022/08/04-01:56:34.795 ff1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
