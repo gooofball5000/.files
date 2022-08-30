@@ -1,1 +1,0 @@
-{"settings_map":{"isFirstRun": false}}
